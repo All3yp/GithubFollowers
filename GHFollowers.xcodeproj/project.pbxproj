@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		18059ACF2645E0240000FC5B /* FollowerListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18059ACE2645E0240000FC5B /* FollowerListViewController.swift */; };
 		18E18B172641EF0800AFDD64 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18E18B162641EF0800AFDD64 /* AppDelegate.swift */; };
 		18E18B192641EF0800AFDD64 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18E18B182641EF0800AFDD64 /* SceneDelegate.swift */; };
 		18E18B1B2641EF0800AFDD64 /* SearchViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18E18B1A2641EF0800AFDD64 /* SearchViewController.swift */; };
@@ -18,6 +19,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		18059ACE2645E0240000FC5B /* FollowerListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FollowerListViewController.swift; sourceTree = "<group>"; };
 		18E18B132641EF0800AFDD64 /* GHFollowers.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GHFollowers.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		18E18B162641EF0800AFDD64 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		18E18B182641EF0800AFDD64 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -66,6 +68,7 @@
 				18E18B2E2642387500AFDD64 /* GFTextField.swift */,
 				18E18B2A2642088200AFDD64 /* FavoriteListViewController.swift */,
 				18E18B1A2641EF0800AFDD64 /* SearchViewController.swift */,
+				18059ACE2645E0240000FC5B /* FollowerListViewController.swift */,
 				18E18B1F2641EF0B00AFDD64 /* Assets.xcassets */,
 				18E18B212641EF0B00AFDD64 /* LaunchScreen.storyboard */,
 				18E18B242641EF0B00AFDD64 /* Info.plist */,
@@ -145,6 +148,7 @@
 				18E18B2F2642387500AFDD64 /* GFTextField.swift in Sources */,
 				18E18B2B2642088200AFDD64 /* FavoriteListViewController.swift in Sources */,
 				18E18B2D264232CF00AFDD64 /* GFButton.swift in Sources */,
+				18059ACF2645E0240000FC5B /* FollowerListViewController.swift in Sources */,
 				18E18B1B2641EF0800AFDD64 /* SearchViewController.swift in Sources */,
 				18E18B172641EF0800AFDD64 /* AppDelegate.swift in Sources */,
 				18E18B192641EF0800AFDD64 /* SceneDelegate.swift in Sources */,
