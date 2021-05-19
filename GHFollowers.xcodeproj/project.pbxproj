@@ -88,8 +88,11 @@
 		18C710D92655AF0B0082C6EA /* Support */ = {
 			isa = PBXGroup;
 			children = (
+				18E18B1F2641EF0B00AFDD64 /* Assets.xcassets */,
 				18E18B182641EF0800AFDD64 /* SceneDelegate.swift */,
 				18E18B162641EF0800AFDD64 /* AppDelegate.swift */,
+				18E18B212641EF0B00AFDD64 /* LaunchScreen.storyboard */,
+				18E18B242641EF0B00AFDD64 /* Info.plist */,
 			);
 			path = Support;
 			sourceTree = "<group>";
@@ -127,9 +130,6 @@
 				18C710D62655AE180082C6EA /* Screens */,
 				18C710D72655AE340082C6EA /* Custom Views */,
 				18C710D82655AE9A0082C6EA /* Extension */,
-				18E18B1F2641EF0B00AFDD64 /* Assets.xcassets */,
-				18E18B212641EF0B00AFDD64 /* LaunchScreen.storyboard */,
-				18E18B242641EF0B00AFDD64 /* Info.plist */,
 			);
 			path = GHFollowers;
 			sourceTree = "<group>";
@@ -356,7 +356,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 4X8K6Z86C3;
-				INFOPLIST_FILE = GHFollowers/Info.plist;
+				INFOPLIST_FILE = GHFollowers/Support/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -375,7 +375,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 4X8K6Z86C3;
-				INFOPLIST_FILE = GHFollowers/Info.plist;
+				INFOPLIST_FILE = GHFollowers/Support/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
